@@ -1,2 +1,2 @@
 # cti110
-Repository for coursework from CTI - 110
+All of our Python files for CTI-110 Introduction to Programming
