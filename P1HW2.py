@@ -15,12 +15,12 @@ food_money = int(input("\nLast, how much do you need for food? "))
 122
 # Display results
 print("\n------------Travel Expenses------------")
-print("Location: ", destination)
-print("Initial Budget: ",budget)
-print("\nFuel: ",gas_money)
-print("Accommodation: ",hotel_money)
-print("Food: ",food_money)
+print("Location:", destination)
+print("Initial Budget:",budget)
+print("\nFuel:",gas_money)
+print("Accommodation:",hotel_money)
+print("Food:",food_money)
 
 remaining_balance = budget - gas_money - hotel_money - food_money
 
-print("\nRemaining Balance: ",remaining_balance)
+print("\nRemaining Balance:",remaining_balance)
