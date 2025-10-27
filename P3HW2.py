@@ -36,6 +36,7 @@ else:
     overtime_hours = 0
     overtime_pay = 0
     regular_pay = hours_worked * pay_rate
+    
 
 gross_pay = regular_pay + overtime_pay
 
